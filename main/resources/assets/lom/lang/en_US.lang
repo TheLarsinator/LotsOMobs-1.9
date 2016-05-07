@@ -1,0 +1,50 @@
+//Materials
+item.lom:horn.name=Horn
+item.lom:deerHide.name=Deer Hide
+item.lom:smashedBug.name=Smashed Bug
+
+//Food
+item.lom:cookedVenison.name=Cooked Venison
+item.lom:rawVenison.name=Raw Venison
+item.lom:cookedBoar.name=Cooked Boar
+item.lom:rawBoar.name=Raw Boar
+item.lom:cookedReptile.name=Cooked Reptile
+item.lom:rawReptile.name=Raw Reptile
+item.lom:WhaleMeat.name=Cooked Whale
+item.lom:RawWhale.name=Raw Whale
+
+
+//Weapons
+item.HornSword.name=Horn Sword
+
+//Armor
+item.DeerHideHelmet.name=Deer Hide Helmet
+item.DeerHideChestPlate.name=Deer Hide Chestplate
+item.DeerHideLeggings.name=Deer Hide Leggings
+item.DeerHideBoots.name=Deer Hide Boots
+
+//Mobs
+entity.lomfap.Deer.name=Deer
+entity.lomfap.Boar.name=Boar
+entity.lomfap.Squirrel.name=Squirrel
+entity.lomfap.Ant.name=Ant
+entity.lomfap.Mole.name=Mole
+entity.lomfap.Elephant.name=Elephant
+entity.lomfap.Fox.name=Fox
+
+entity.lomdes.Lizard.name=Lizard
+entity.lomdes.Camel.name=Camel
+entity.lomdes.Scorpion.name=Scorpion
+
+entity.lomjas.Fly.name=Fly
+entity.lomjas.Gekko.name=Gekko
+
+entity.lomarc.PolarBear.name=Polar Bear
+entity.lomarc.PolarFox.name=Polar Fox
+entity.lomarc.Penguin.name=Penguin
+
+
+//CreativeTabs
+itemGroup.LotsOMobsItems=LotsOMobs Items
+itemGroup.LotsOMobsFood=LotsOMobs Food
+itemGroup.LotsOMobsCombat=LotsOMobs Combat Items
